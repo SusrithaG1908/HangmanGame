@@ -5,7 +5,7 @@ A fun and simple Hangman game built using **HTML**, **CSS**, and **JavaScript**.
 ---
 ## 🌐 Live Preview
 
-👉 **Live Demo:** [Click here to view the live demo]()  
+👉 **Live Demo:** [Click here to view the live demo](https://susrithag1908.github.io/HangmanGame/)  
 Or run the project locally using any static server (such as Live Server in VS Code).
 
 ---
